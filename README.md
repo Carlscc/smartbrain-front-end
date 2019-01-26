@@ -3,10 +3,9 @@
 Smartbrain App allows users to detect faces in pictures using Clarifai's AI API. 
 Utilised front-end: ES6, React, CSS3, Tachyons - CSS Toolkit, Particles.js, Tilt.js, CSS Patterns.
 
-To run:
-1. Clone this repo
-2. Run ```npm install```
-3. Run ```npm start```
+[Demo](https://dashboard.heroku.com/apps/smart-brain-app-demo)
+
+![Uploading Screen Shot 2019-01-26 at 19.02.37.png…]()
 
 
 
