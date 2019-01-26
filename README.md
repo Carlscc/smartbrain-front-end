@@ -1,4 +1,4 @@
-# Smartbrain App
+# Smartbrain App: Front-End
 
 To run:
 1. Clone this repo
