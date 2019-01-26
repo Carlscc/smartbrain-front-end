@@ -1,5 +1,8 @@
 # Smartbrain App: Front-End
 
+Smartbrain App allows users to detect faces in pictures using Clarifai's AI API. 
+Utilised front-end: ES6, React, CSS3, Tachyons - CSS Toolkit, Particles.js, Tilt.js, CSS Patterns.
+
 To run:
 1. Clone this repo
 2. Run ```npm install```
