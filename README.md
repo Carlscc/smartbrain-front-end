@@ -1,6 +1,7 @@
 # Smartbrain App: Front-End
 
-Smartbrain App allows users to detect faces in pictures using Clarifai's AI API. 
+Smartbrain App allows users to detect faces in pictures using Clarifai's AI API. It has a Register and Sign In system and a basic profile that counts and displays user submissions. For security, passwords are hashed using Bcrypt.
+ 
 
 Utilised front-end: ES6, React, CSS3, Tachyons - CSS Toolkit, Particles.js, Tilt.js, CSS Patterns.
 
